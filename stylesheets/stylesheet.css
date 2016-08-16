@@ -1,19 +1,18 @@
 
+img {
+  margin: 100px auto;
+  display: block;
+}
+
 
 #mona-lisa {
-  margin: 0 auto;
-  display: block;
   width: 200px;
 } 
 
 #street {
-  margin: 0 auto;
-  display: block;
   width: 700px;
 }
 
 #sea {
-  margin: 0 auto;
-  display: block;
   width: 700px;
 }
