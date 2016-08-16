@@ -1,7 +1,19 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: georgia;
+}
+
+h1 {
+    font-size: 45px;
+    color: darkseagreen;
+    text-shadow: 0px 3px lightgray;
+}
 
 img {
-  margin: 100px auto;
-  display: block;
+    margin: 60px auto 28px;
+    display: block;
+    box-shadow: 0px 0px 4px 3px slategray;
 }
 
 
