@@ -1,11 +1,14 @@
 #mona-lisa {
-  width: 350px;
+  display: block;
+  width: 100px;
 } 
 
 #street {
+  display: block;
   width: 400px;
 }
 
 #sea {
+  display: block;
   width: 500px;
 }
